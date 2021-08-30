@@ -1,5 +1,5 @@
 ## Hi I'm Jelle Stekelenburg, a front-end developer in the Amsterdam region.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelleStek)](https://github.com/anuraghazra/github-readme-stats)
+![Yeno's Github Stats](https://github-readme-stats.vercel.app/api?username=JelleStek&show_icons=true&theme=tokyonight&count_private=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JelleStek&theme=tokyonight)
